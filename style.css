@@ -1,0 +1,33 @@
+* {
+    margin: 20px;
+}
+
+#top {
+    border: 2px solid red;
+    width: 800px;
+    height: 200px;
+    background-color: lightslategray;
+    display: flex;
+    justify-content: space-between;
+    text-align: center
+}
+
+#middle {
+    border: 2px solid red;
+    width: 800px;
+    height: 200px;
+    background-color: rgb(98, 157, 217);
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+#bottom {
+    border: 2px solid red;
+    width: 800px;
+    height: 200px;
+    background-color: rgb(244, 203, 78);
+    display: flex;
+    justify-content: space-around;
+    text-align: center
+}
